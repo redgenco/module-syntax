@@ -2,18 +2,18 @@
 
 An Atom syntax theme inspired by the promises of space exploration.
 
-![Module Title] (http://i.imgur.com/q6W2lhT.png)
+![Module Title] (http://i.imgur.com/y8ckaHu.png)
 
 ### HTML
-![HTML Preview](http://i.imgur.com/fqK699p.png)
+![HTML Preview](http://i.imgur.com/0KaJg4w.png)
 ---
 
 ### CSS
-![CSS Preview](http://i.imgur.com/gkAjGk8.png)
+![CSS Preview](http://i.imgur.com/TACtsFY.png)
 ---
 
 ### CS
-![CS Preview](http://i.imgur.com/nty8wDc.png)
+![CS Preview](http://i.imgur.com/gC80TkH.png)
 ---
 
 [white-cursor] (https://atom.io/packages/white-cursor) package recommended.
