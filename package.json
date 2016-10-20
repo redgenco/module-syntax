@@ -1,0 +1,15 @@
+{
+  "name": "module-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A syntax theme inspired by dreams of space exploration",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/module-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
