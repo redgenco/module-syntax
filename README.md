@@ -5,11 +5,11 @@ An Atom syntax theme inspired by the promises of space exploration.
 ![Module Title] (http://i.imgur.com/y8ckaHu.png)
 
 ### HTML
-![HTML Preview](http://i.imgur.com/rSEm76i.png)
+![HTML Preview](http://i.imgur.com/VRlvFhY.png)
 ---
 
 ### CSS
-![CSS Preview](http://i.imgur.com/KdtVnsL.png)
+![CSS Preview](http://i.imgur.com/B4p4ipr.png)
 ---
 
 ### CS
