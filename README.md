@@ -17,3 +17,11 @@ An Atom syntax theme inspired by the promises of space exploration.
 ---
 
 [white-cursor] (https://atom.io/packages/white-cursor) package recommended.
+
+---
+
+[Lunar Syntax] (https://atom.io/themes/lunar-syntax)
+[Module Syntax] (https://atom.io/themes/module-syntax)
+[Orbit Syntax] (https://atom.io/themes/orbit-syntax)
+
+---
