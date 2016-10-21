@@ -1,7 +1,7 @@
 {
   "name": "module-syntax",
   "theme": "syntax",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "An Atom syntax theme inspired by the promises of space exploration.",
   "keywords": [
     "syntax",
